@@ -1,0 +1,37 @@
+#if defined main_colors_included_
+	#endinput
+#endif
+
+#define main_colors_included_
+
+#define COLOR_BLUE 0x4646FFFF
+#define COL_BLUE "{4646FF}"
+#define COLOR_RED 0xFF4F4FFF
+#define COL_RED "{FF4F4F}"
+#define COLOR_YELLOW 0xFFFF2BFF
+#define COL_YELLOW "{FFFF2B}"
+#define COLOR_GREEN 0x00AA00FF
+#define COL_GREEN "{00AA00}"
+#define COLOR_LGREEN 0x2FFF2FFF
+#define COL_LGREEN "{2FFF2F}"
+#define COLOR_ORANGE 0xFF9428FF
+#define COL_ORANGE "{FF9428}"
+#define COLOR_GRAY 0x909090FF
+#define COL_GRAY "{909090}"
+#define COLOR_WHITE 0xFFFFFFFF
+#define COL_WHITE "{FFFFFF}"
+#define COLOR_BLACK 0x1D1D1DFF
+#define COL_BLACK "{1D1D1D}"
+#define COLOR_PINK 0xFF2D96FF
+#define COL_PINK "{FF2D96}"
+#define COLOR_SERVER 0x4169FFFF
+#define COLOR_IRC 0x0011FFFF
+#define COL_IRC "{0011FF}"
+#define COLOR_BOT 0xBDBD3E33
+#define COLOR_INFO COLOR_BLUE
+#define COLOR_DRED 0xFF0000FF
+#define COL_DRED "{FF0000}"
+#define COLOR_ADMIN 0xFF9428FF
+#define COL_ADMIN	"{FF9428}"
+#define COLOR_ERROR 0xFF4F4FFF
+#define COLOR_VIP COLOR_PINK

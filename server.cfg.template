@@ -1,0 +1,20 @@
+echo Executing Server Config...
+lanmode 0
+rcon_password CHANGE_THIS<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+maxplayers 50
+port 7777
+hostname Cops vs Terrorists
+gamemode0 dm 1
+filterscripts 
+plugins streamer sscanf mysql Whirlpool
+announce 0
+chatlogging 0
+weburl www.sa-mp.com
+onfoot_rate 40
+incar_rate 40
+weapon_rate 40
+stream_distance 300.0
+stream_rate 1000
+maxnpc 0
+logtimeformat [%H:%M:%S]
+language English

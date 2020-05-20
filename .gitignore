@@ -1,0 +1,13 @@
+*.exe
+*sublime*
+*.dll
+server.cfg
+samp-license.txt
+server-readme.txt
+pawno/
+include/DM/fixes2.inc
+*.so
+server_log.txt
+*.amx
+logs/
+plugins/plugins.7z
